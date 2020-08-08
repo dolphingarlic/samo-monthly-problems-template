@@ -1,0 +1,1 @@
+# SAMO Monthly Problems Template
